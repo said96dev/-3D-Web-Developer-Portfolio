@@ -1,0 +1,11 @@
+Model Information:
+* title:	PCs and PC parts mini asset pack
+* source:	https://sketchfab.com/3d-models/pcs-and-pc-parts-mini-asset-pack-b4697fb02e8b4d0593d0f195e5c09d0b
+* author:	FyorDev (https://sketchfab.com/FyorDev)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PCs and PC parts mini asset pack" (https://sketchfab.com/3d-models/pcs-and-pc-parts-mini-asset-pack-b4697fb02e8b4d0593d0f195e5c09d0b) by FyorDev (https://sketchfab.com/FyorDev) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
